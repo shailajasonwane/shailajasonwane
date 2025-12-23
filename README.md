@@ -55,12 +55,11 @@ Business KPIs & Metrics
 Preparing for a Data Analyst role
 
 **🤝 Let’s Connect**
+
 I’m open to **Data Analyst / Junior Data Analyst roles**, internships, and analytics-focused projects.
 
 💼 LinkedIn:https://www.linkedin.com/in/shailaja-sonwane/
 
 📧 Email: shailajasonwane29@gmail.com
-
-I’m open to collaboration, learning opportunities, and discussions around data analytics, testing, and quality-driven development.
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
