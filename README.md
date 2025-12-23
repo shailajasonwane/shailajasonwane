@@ -1,4 +1,4 @@
-**👋 Hi, I'm Shailaja Sonwane**
+**#Hi, I'm Shailaja Sonwane**
 
 🎯 Aspiring Data Analyst | 📊 Analytics-Focused Problem Solver | 🧪 Software Tester (QA Background)
 
