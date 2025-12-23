@@ -41,11 +41,6 @@ SDLC knowledge
 
 Power BI 
 
-
-**📂 Projects**
-
-👉 Check out my repositories to see my work!
-
 **🌱 Currently Learning**
 
 Data Visualization Best Practices
