@@ -7,9 +7,13 @@ I’m a detail-driven Software Tester transitioning into a **Data Analyst role**
 **🚀 About Me**
 
 🔍 Currently working as a Software Tester, ensuring product quality and reliability
+
 📈 Actively building skills to become a Data Analyst
+
 🧠 Strong in problem-solving, analytical thinking, and attention to detail
+
 💡 Passionate about uncovering patterns, trends, and insights from data
+
 📚 Continuous learner with hands-on practice through projects and challenges
 
 **🛠️ Skills & Tools**
