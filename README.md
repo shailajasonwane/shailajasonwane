@@ -16,15 +16,21 @@ I’m a detail-driven Software Tester transitioning into a **Data Analyst role**
 
 __Data Analysis__
 **Python**: Pandas, NumPy, Matplotlib, Seaborn
+
 **SQL**: Joins, Subqueries, CTEs, Window Functions
+
 **Excel**: Pivot Tables, Dashboards, Advanced Functions
+
 **EDA**: Data Cleaning, Transformation & Insights
 
 __Testing & QA__
 
 Manual Testing
+
 Test Case Design & Execution
+
 Bug Tracking & Reporting
+
 SDLC knowledge
 
 **📈 Data Visualization**
@@ -39,15 +45,22 @@ Power BI
 **🌱 Currently Learning**
 
 Data Visualization Best Practices
+
 Improving SQL & Python skills through hands-on practice
+
 Creating interactive dashboards
+
 Business KPIs & Metrics
+
 Preparing for a Data Analyst role
 
 **🤝 Let’s Connect**
 I’m open to **Data Analyst / Junior Data Analyst roles**, internships, and analytics-focused projects.
+
 💼 LinkedIn:https://www.linkedin.com/in/shailaja-sonwane/
+
 📧 Email: shailajasonwane29@gmail.com
 
 I’m open to collaboration, learning opportunities, and discussions around data analytics, testing, and quality-driven development.
+
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
