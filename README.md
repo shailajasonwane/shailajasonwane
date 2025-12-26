@@ -36,7 +36,7 @@ Requirement Gathering & Documentation
 
 Stakeholder Management
 
-**Testing & QA**
+**🧪 Software Testing (Transferable Skills)**
 
 Manual Testing & Test Case Design 
 
