@@ -8,7 +8,7 @@ Data-focused professional transitioning into a **Data Analyst role**, with exper
 
 **🚀 About Me**
 
-🔍 Currently working as a Business Analyst/Software Tester, ensuring product quality and reliability
+🔍 Currently working as a **Business Analyst/Software Tester**, ensuring product quality and reliability
 
 📈 Actively building skills to become a Data Analyst
 
