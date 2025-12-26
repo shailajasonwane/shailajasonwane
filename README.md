@@ -1,12 +1,14 @@
 **Hi, I'm Shailaja Sonwane**
 
-🎯 Aspiring Data Analyst | 📊 Analytics-Focused Problem Solver | 🧪 Software Tester (QA Background)
+🎯 Aspiring Data Analyst | 💼 Business Analyst | 🧪 Software Tester
 
-I’m a detail-driven Software Tester transitioning into a **Data Analyst role**, bringing hands-on experience in validation, analysis, and quality assurance—now applied to **data, insights, and decision-making**. My background helps me approach data with a strong focus on **accuracy, logic, and business impact**.
+🔍 Turning business questions into data-driven insights
+
+Data-focused professional transitioning into a **Data Analyst role**, with experience in **Business Analysis and Software Testing**. My experience sits at the intersection of **business understanding, data validation, and analytical problem-solving**, allowing me to bridge the gap between stakeholders, systems, and data.
 
 **🚀 About Me**
 
-🔍 Currently working as a Software Tester, ensuring product quality and reliability
+🔍 Currently working as a Business Analyst/Software Tester, ensuring product quality and reliability
 
 📈 Actively building skills to become a Data Analyst
 
@@ -18,7 +20,8 @@ I’m a detail-driven Software Tester transitioning into a **Data Analyst role**
 
 **🛠️ Skills & Tools**
 
-__Data Analysis__
+**📊Data Analysis**
+
 **Python**: Pandas, NumPy, Matplotlib, Seaborn
 
 **SQL**: Joins, Subqueries, CTEs, Window Functions
@@ -27,23 +30,36 @@ __Data Analysis__
 
 **EDA**: Data Cleaning, Transformation & Insights
 
-__Testing & QA__
+**💼 Business Analysis**
 
-Manual Testing
+Requirement Gathering & Documentation
 
-Test Case Design & Execution
+Stakeholder Management
+
+**Testing & QA**
+
+Manual Testing & Test Case Design 
 
 Bug Tracking & Reporting
 
 SDLC knowledge
 
+Data Consistency & Accuracy Checks
+
 **📈 Data Visualization**
 
 Power BI 
 
-**🌱 Currently Learning**
+**📂 Projects**
 
-Data Visualization Best Practices
+Here are some projects I’ve worked on.
+
+**Excel-Sales-Analytics** - https://github.com/shailajasonwane/Excel-Sales-Analytics/tree/main
+
+
+**🌱 Currently Improving**
+
+Data Storytelling & Data Visualization Best Practices
 
 Improving SQL & Python skills through hands-on practice
 
@@ -51,14 +67,12 @@ Creating interactive dashboards
 
 Business KPIs & Metrics
 
-Preparing for a Data Analyst role
-
 **🤝 Let’s Connect**
 
-I’m open to **Data Analyst / Junior Data Analyst roles**, internships, and analytics-focused projects.
+I’m actively exploring opportunities as a **Data Analyst / Junior Data Analyst**, where I can leverage my **business + testing + analytics** background.
 
-💼 LinkedIn:https://www.linkedin.com/in/shailaja-sonwane/
+💼 **LinkedIn**:https://www.linkedin.com/in/shailaja-sonwane/
 
-📧 Email: shailajasonwane29@gmail.com
+📧 **Email**: shailajasonwane29@gmail.com
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⭐ Thanks for visiting my profile! Feel free to explore my repositories—feedback, collaboration, and opportunities are always welcome!
